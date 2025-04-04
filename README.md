@@ -1,1 +1,1 @@
-# crypto-visualized
+# cruuyptoAlgo-visualized
